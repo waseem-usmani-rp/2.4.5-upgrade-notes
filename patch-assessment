@@ -1,0 +1,220 @@
+Patch rp_cataloginventory_nodelete.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/rp_cataloginventory_nodelete.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/module-catalog-inventory/Model/ResourceModel/Indexer/Stock/DefaultStock.php
+Reversed (or previously applied) patch detected!  Assume -R? [n]
+Apply anyway? [n]
+Skipping patch.
+3 out of 3 hunks ignored
+
+
+Error Output:
+================
+
+Patch avalara-avatax-template-2.4.3-upgrade.patch successfully applied.
+Patch magento_es_catalog_pagination.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/magento_es_catalog_pagination.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/module-elasticsearch/Model/ResourceModel/Fulltext/Collection/SearchResultApplier.php
+Hunk #1 FAILED at 69.
+1 out of 1 hunk FAILED
+
+
+Error Output:
+================
+
+Patch sd_avatax_sdk.patch successfully applied.
+Patch MDVA-16942_DEBUG_EE_2.2.6_COMPOSER_v1.patch successfully applied.
+Patch sd_elasticsearch_nodelete.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/sd_elasticsearch_nodelete.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/module-elasticsearch/Model/Indexer/IndexerHandler.php
+Hunk #1 succeeded at 59 with fuzz 2 (offset 2 lines).
+Hunk #2 FAILED at 99.
+Hunk #3 succeeded at 188 (offset 73 lines).
+1 out of 3 hunks FAILED
+
+
+Error Output:
+================
+
+Patch rp_elasticsearch_nodelete.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/rp_elasticsearch_nodelete.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/module-elasticsearch/Model/Indexer/IndexerHandler.php
+Hunk #1 succeeded at 59 with fuzz 2 (offset 2 lines).
+Hunk #2 FAILED at 99.
+Hunk #3 succeeded at 188 (offset 73 lines).
+1 out of 3 hunks FAILED
+
+
+Error Output:
+================
+
+Patch rp_address-converter-for-custom-attributes.patch successfully applied.
+Patch MDVA-43395_EE_2.4.3-p1_COMPOSER_v1___MDVA-43443_EE_2.4.3-p1_v1___combined.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/MDVA-43395_EE_2.4.3-p1_COMPOSER_v1___MDVA-43443_EE_2.4.3-p1_v1___combined.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/framework/Filter/DirectiveProcessor/DependDirective.php
+checking file vendor/magento/framework/Filter/DirectiveProcessor/ForDirective.php
+checking file vendor/magento/framework/Filter/DirectiveProcessor/IfDirective.php
+checking file vendor/magento/framework/Filter/DirectiveProcessor/SimpleDirective.php
+checking file vendor/magento/framework/Filter/DirectiveProcessor/VarDirective.php
+checking file vendor/magento/module-email/Model/Template/Filter.php
+Hunk #1 succeeded at 393 (offset 1 line).
+Hunk #2 succeeded at 441 (offset 1 line).
+Hunk #3 succeeded at 476 (offset 1 line).
+Hunk #4 succeeded at 556 (offset 1 line).
+Hunk #5 succeeded at 569 (offset 1 line).
+Hunk #6 succeeded at 617 with fuzz 2 (offset 8 lines).
+Hunk #7 FAILED at 647.
+Hunk #8 succeeded at 700 (offset 9 lines).
+Hunk #9 succeeded at 785 (offset 10 lines).
+Hunk #10 succeeded at 823 (offset 10 lines).
+Hunk #11 succeeded at 905 with fuzz 2 (offset 21 lines).
+Hunk #12 succeeded at 946 (offset 21 lines).
+Hunk #13 succeeded at 1176 (offset 21 lines).
+1 out of 13 hunks FAILED
+
+
+Error Output:
+================
+
+Patch MDVA-29258_EE_2.3.4_COMPOSER_v1_2.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/MDVA-29258_EE_2.3.4_COMPOSER_v1_2.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/module-backend/view/adminhtml/layout/default.xml
+checking file vendor/magento/module-backend/view/adminhtml/requirejs-config.js
+Reversed (or previously applied) patch detected!  Assume -R? [n]
+Apply anyway? [n]
+Skipping patch.
+1 out of 1 hunk ignored
+checking file vendor/magento/module-translation/view/adminhtml/requirejs-config.js
+
+
+Error Output:
+================
+
+Patch sd_elasticsearch_cad_plp.patch successfully applied.
+Patch MDVA-32071_EE_2.3.5-p1_v1.composer.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/MDVA-32071_EE_2.3.5-p1_v1.composer.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/module-catalog/view/frontend/web/js/product/list/toolbar.js
+Reversed (or previously applied) patch detected!  Assume -R? [n]
+Apply anyway? [n]
+Skipping patch.
+3 out of 3 hunks ignored
+
+
+Error Output:
+================
+
+Patch kravet_replace_spectrum_vendor.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/kravet_replace_spectrum_vendor.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/magento2-base/lib/web/jquery/spectrum/spectrum.js
+Reversed (or previously applied) patch detected!  Assume -R? [n]
+Apply anyway? [n]
+Skipping patch.
+patch unexpectedly ends in middle of line
+25 out of 25 hunks ignored
+
+
+Error Output:
+================
+
+Patch sd_html_attribute_validation_better_messaging.patch successfully applied.
+Patch kravet_replace_spectrum_lib.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/kravet_replace_spectrum_lib.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file lib/web/jquery/spectrum/spectrum.js
+Reversed (or previously applied) patch detected!  Assume -R? [n]
+Apply anyway? [n]
+Skipping patch.
+patch unexpectedly ends in middle of line
+25 out of 25 hunks ignored
+
+
+Error Output:
+================
+
+Patch magento_2.3.1_setup_customer_reindex.patch successfully applied.
+Patch SD-002_EE_2.1.14_permission_check.patch successfully applied.
+Patch rp_inventory_nodelete.patch successfully applied.
+Patch rp_price_nodelete.patch successfully applied.
+Patch MDVA-29258_EE_2.3.4_COMPOSER_v1.patch skipped. Dry-run response was:
+The command "patch --dry-run -p 1 < '/var/www/html/composer-patches/MDVA-29258_EE_2.3.4_COMPOSER_v1.patch'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /var/www/html
+
+Output:
+================
+checking file vendor/magento/module-backend/view/adminhtml/layout/default.xml
+Hunk #1 FAILED at 70.
+1 out of 1 hunk FAILED
+checking file vendor/magento/module-backend/view/adminhtml/requirejs-config.js
+Reversed (or previously applied) patch detected!  Assume -R? [n]
+Apply anyway? [n]
+Skipping patch.
+1 out of 1 hunk ignored
+checking file vendor/magento/module-translation/view/adminhtml/requirejs-config.js
+
+
+Error Output:
+================
