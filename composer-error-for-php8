@@ -1,0 +1,14 @@
+Problem 1
+    - Root composer.json requires somethingdigital/missing-products ^1.2 -> satisfiable by somethingdigital/missing-products[1.2.0].
+    - somethingdigital/missing-products 1.2.0 requires php >= 7.0.0 <8.0.0 -> your php version (8.1.11) does not satisfy that requirement.
+    
+https://github.com/sdinteractive/SomethingDigital_MissingProducts/commit/5cb6b08b603eeb0b915e8ec2da60e4bca7ebe741
+
+
+Problem 2
+    - Root composer.json requires wizart/magento2-module ~2.4.1 -> satisfiable by wizart/magento2-module[2.4.1, 2.4.2, 2.4.4, 2.4.5].
+    - wizart/magento2-module[2.4.1, ..., 2.4.5] require php ^7.2 -> your php version (8.1.11) does not satisfy that requirement.
+    
+https://github.com/wizart-tech/magento2-module
+
+
